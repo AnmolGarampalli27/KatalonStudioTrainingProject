@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case showcases the use of custom keyword in Katalon studio.</description>
+   <name>CustomKeyword_Demo</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8bc203c8-bb3b-4ca4-8d68-7ff9af8a31ea</testCaseGuid>
+</TestCaseEntity>

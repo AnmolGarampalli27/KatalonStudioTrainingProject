@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Writing the test case using the script mode</description>
+   <name>Test3_ScriptMode</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c977bbe3-b5e3-458c-96f5-84023629d890</testCaseGuid>
+</TestCaseEntity>
